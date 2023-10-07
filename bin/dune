@@ -1,4 +1,4 @@
 (executable
  (public_name Ocaml_learning)
- (name main)
+ (name advent_of_code_2022_d1)
  (libraries Ocaml_learning))
